@@ -1,0 +1,8 @@
+{
+  "name": "Zerb AI Code Architect",
+  "description": "A premium, minimal AI-powered IDE and coding assistant that separates chat from code, providing a full-featured workspace with live preview and project management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
